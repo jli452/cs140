@@ -1,0 +1,50 @@
+Garner, Nicholas, 1986, 7, 24, Social Work, 3.9, B00561359
+Callahan, Christian, 1995, 3, 30, Theatre, 2.87, B00138104
+Manning, Nelson, 1987, 8, 31, Spanish: Language and Literature, 3.44, B00828178
+Stanley, Becky, 2013, 2, 9, Linguistics, 2.81, B00996711
+Pruitt, Jerome, 1996, 5, 10, Classics: Greek and Latin, 2.6, B00665672
+Moon, Josephine, 2000, 7, 23, Physics, 3.01, B00672973
+Lamb, James, 1986, 4, 9, Latin American and Caribbean Studies, 2.78, B00937882
+Cowan, Lakeisha, 1978, 11, 26, Biological Sciences, 2.65, B00670941
+Buckley, Zelma, 1997, 3, 22, Mechanical Engineering, 3.29, B00779891
+Tanner, Susie, 1970, 12, 21, Latin, 2.87, B00187914
+Michael, Edward, 2014, 3, 23, Latin American and Caribbean Studies, 2.88, B00155265
+Vasquez, Rodney, 1977, 6, 17, Art and Design: Photography, 3.35, B00370252
+Armstrong, Melva, 2003, 1, 28, Physics: Mathematical Physics, 2.68, B00539572
+Paul, Dave, 1977, 12, 7, Physics: Mathematical Physics, 3.8, B00190715
+Lane, Julio, 2006, 7, 4, Africana Studies, 3.07, B00835933
+Carson, Christy, 2013, 5, 29, Business Administration: Management Information Systems, 3.8, B00780434
+Spears, Janice, 1982, 11, 5, Latin Language and Literature, 2.79, B00961968
+Pacheco, Lila, 1988, 6, 7, Art and Design: Painting, 3.42, B00134221
+Chandler, Christopher, 2015, 2, 19, Art History: Architectural History, 2.88, B00567586
+Pearson, Willa, 1979, 4, 21, Art and Design: Printmaking, 3.11, B00266123
+Rich, Concepcion, 1990, 1, 8, Chemistry: Materials, 3.14, B00463082
+Hodge, Marcus, 1974, 10, 15, Philosophy Politics and Law, 3.74, B00279436
+Lozano, Mario, 1998, 5, 23, French and Francophone Studies, 3.36, B00567587
+Bowers, Zelma, 1989, 1, 12, Human Development, 3.92, B00916787
+Copeland, Edward, 1978, 3, 29, Korean Studies, 2.61, B00491368
+Johnson, Juanita, 2000, 11, 28, Korean Studies, 3.13, B00131684
+Reilly, Wanda, 1990, 10, 30, Medieval and Early Modern Studies, 3.7, B00448087
+Allison, Araceli, 1974, 3, 20, Art History, 3.53, B00536711
+Ritter, Rae, 1990, 3, 26, Anthropology: Anthropological Perspectives, 3.12, B00956111
+Duffy, Bernadette, 1972, 9, 22, Business Administration: Leadership and Consulting, 3.41, B00998755
+Harrison, Carlos, 2016, 5, 31, Geological Sciences, 2.93, B00948369
+Mclaughlin, Eddie, 2003, 9, 20, Latin Language and Literature, 3.81, B00314307
+Benitez, Isabel, 2014, 4, 15, Art and Design, 3.04, B00901985
+Bass, Angel, 1993, 3, 18, Physics: Mathematical Physics, 2.75, B00616020
+Lozano, Mabel, 2014, 8, 7, Chemistry: Biological Chemistry, 4.0, B00982373
+Quinn, Shawn, 1972, 10, 16, Business Administration: Entrepreneurship, 2.71, B00736740
+O'Brien, Constance, 2007, 1, 27, Business Administration: Management Information Systems, 2.64, B00913189
+Lowery, Stacey, 1991, 1, 7, Art and Design: Drawing, 3.63, B00484004
+Baker, Elsa, 1999, 4, 23, Political Science, 2.62, B00659241
+Herrera, Eduardo, 1988, 12, 21, Africana Studies, 3.51, B00561607
+Eaton, Johnny, 1972, 7, 14, German: Language and Literature, 3.22, B00825982
+Stafford, Duane, 2014, 5, 24, Music, 2.96, B00552384
+Stuart, Cory, 2012, 4, 10, Biochemistry, 3.85, B00872305
+Martin, Frank, 1995, 7, 21, French: Language and Literature, 3.76, B00400647
+Bonilla, Stephanie, 1975, 7, 4, Human Development, 3.19, B00744049
+Burns, Brandon, 2007, 5, 1, Biochemistry, 2.78, B00555956
+Whitehead, Monica, 1979, 9, 18, Art History, 3.09, B00630416
+Murray, Bobbie, 1975, 3, 1, French: Language and Literature, 3.56, B00318114
+Rhodes, Rick, 1971, 9, 9, Art History, 2.97, B00716963
+Stanton, Mallory, 1978, 12, 31, Physics, 3.58, B00260141
